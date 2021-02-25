@@ -1,6 +1,6 @@
 {
   "name": "@repugraf/rewrite-esm-paths",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds extensions in esm imports/exports",
   "main": "./lib/cjs/index.js",
   "module": "./lib/esm/index.js",
